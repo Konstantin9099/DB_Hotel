@@ -1,0 +1,133 @@
+D:\College\4 курс\Технология разработки и защиты БД (Карпушин А.И.)\ПР\DB_Hotel\DB_Hotel\bin\Debug\DB_Hotel.exe.config
+D:\College\4 курс\Технология разработки и защиты БД (Карпушин А.И.)\ПР\DB_Hotel\DB_Hotel\bin\Debug\DB_Hotel.exe
+D:\College\4 курс\Технология разработки и защиты БД (Карпушин А.И.)\ПР\DB_Hotel\DB_Hotel\bin\Debug\DB_Hotel.pdb
+D:\College\4 курс\Технология разработки и защиты БД (Карпушин А.И.)\ПР\DB_Hotel\DB_Hotel\bin\Debug\BouncyCastle.Crypto.dll
+D:\College\4 курс\Технология разработки и защиты БД (Карпушин А.И.)\ПР\DB_Hotel\DB_Hotel\bin\Debug\Google.Protobuf.dll
+D:\College\4 курс\Технология разработки и защиты БД (Карпушин А.И.)\ПР\DB_Hotel\DB_Hotel\bin\Debug\K4os.Compression.LZ4.dll
+D:\College\4 курс\Технология разработки и защиты БД (Карпушин А.И.)\ПР\DB_Hotel\DB_Hotel\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\College\4 курс\Технология разработки и защиты БД (Карпушин А.И.)\ПР\DB_Hotel\DB_Hotel\bin\Debug\K4os.Hash.xxHash.dll
+D:\College\4 курс\Технология разработки и защиты БД (Карпушин А.И.)\ПР\DB_Hotel\DB_Hotel\bin\Debug\MySql.Data.dll
+D:\College\4 курс\Технология разработки и защиты БД (Карпушин А.И.)\ПР\DB_Hotel\DB_Hotel\bin\Debug\System.Buffers.dll
+D:\College\4 курс\Технология разработки и защиты БД (Карпушин А.И.)\ПР\DB_Hotel\DB_Hotel\bin\Debug\System.Memory.dll
+D:\College\4 курс\Технология разработки и защиты БД (Карпушин А.И.)\ПР\DB_Hotel\DB_Hotel\bin\Debug\System.Numerics.Vectors.dll
+D:\College\4 курс\Технология разработки и защиты БД (Карпушин А.И.)\ПР\DB_Hotel\DB_Hotel\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\College\4 курс\Технология разработки и защиты БД (Карпушин А.И.)\ПР\DB_Hotel\DB_Hotel\bin\Debug\Ubiety.Dns.Core.dll
+D:\College\4 курс\Технология разработки и защиты БД (Карпушин А.И.)\ПР\DB_Hotel\DB_Hotel\bin\Debug\ZstdNet.dll
+D:\College\4 курс\Технология разработки и защиты БД (Карпушин А.И.)\ПР\DB_Hotel\DB_Hotel\bin\Debug\Google.Protobuf.pdb
+D:\College\4 курс\Технология разработки и защиты БД (Карпушин А.И.)\ПР\DB_Hotel\DB_Hotel\bin\Debug\Google.Protobuf.xml
+D:\College\4 курс\Технология разработки и защиты БД (Карпушин А.И.)\ПР\DB_Hotel\DB_Hotel\bin\Debug\K4os.Compression.LZ4.xml
+D:\College\4 курс\Технология разработки и защиты БД (Карпушин А.И.)\ПР\DB_Hotel\DB_Hotel\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\College\4 курс\Технология разработки и защиты БД (Карпушин А.И.)\ПР\DB_Hotel\DB_Hotel\bin\Debug\K4os.Hash.xxHash.xml
+D:\College\4 курс\Технология разработки и защиты БД (Карпушин А.И.)\ПР\DB_Hotel\DB_Hotel\bin\Debug\MySql.Data.xml
+D:\College\4 курс\Технология разработки и защиты БД (Карпушин А.И.)\ПР\DB_Hotel\DB_Hotel\bin\Debug\System.Buffers.xml
+D:\College\4 курс\Технология разработки и защиты БД (Карпушин А.И.)\ПР\DB_Hotel\DB_Hotel\bin\Debug\System.Memory.xml
+D:\College\4 курс\Технология разработки и защиты БД (Карпушин А.И.)\ПР\DB_Hotel\DB_Hotel\bin\Debug\System.Numerics.Vectors.xml
+D:\College\4 курс\Технология разработки и защиты БД (Карпушин А.И.)\ПР\DB_Hotel\DB_Hotel\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\College\4 курс\Технология разработки и защиты БД (Карпушин А.И.)\ПР\DB_Hotel\DB_Hotel\obj\Debug\DB_Hotel.csproj.AssemblyReference.cache
+D:\College\4 курс\Технология разработки и защиты БД (Карпушин А.И.)\ПР\DB_Hotel\DB_Hotel\obj\Debug\DB_Hotel.Avtorizaciya.resources
+D:\College\4 курс\Технология разработки и защиты БД (Карпушин А.И.)\ПР\DB_Hotel\DB_Hotel\obj\Debug\DB_Hotel.Menu.resources
+D:\College\4 курс\Технология разработки и защиты БД (Карпушин А.И.)\ПР\DB_Hotel\DB_Hotel\obj\Debug\DB_Hotel.Properties.Resources.resources
+D:\College\4 курс\Технология разработки и защиты БД (Карпушин А.И.)\ПР\DB_Hotel\DB_Hotel\obj\Debug\DB_Hotel.csproj.GenerateResource.cache
+D:\College\4 курс\Технология разработки и защиты БД (Карпушин А.И.)\ПР\DB_Hotel\DB_Hotel\obj\Debug\DB_Hotel.csproj.CoreCompileInputs.cache
+D:\College\4 курс\Технология разработки и защиты БД (Карпушин А.И.)\ПР\DB_Hotel\DB_Hotel\obj\Debug\DB_Hotel.csproj.CopyComplete
+D:\College\4 курс\Технология разработки и защиты БД (Карпушин А.И.)\ПР\DB_Hotel\DB_Hotel\obj\Debug\DB_Hotel.exe
+D:\College\4 курс\Технология разработки и защиты БД (Карпушин А.И.)\ПР\DB_Hotel\DB_Hotel\obj\Debug\DB_Hotel.pdb
+D:\College\4 курс\Технология разработки и защиты БД (Карпушин А.И.)\ПР\DB_Hotel\DB_Hotel\obj\Debug\DB_Hotel.Dolzhnosti.resources
+D:\College\4 курс\Технология разработки и защиты БД (Карпушин А.И.)\ПР\DB_Hotel\DB_Hotel\obj\Debug\DB_Hotel.Komnaty.resources
+D:\College\4 курс\Технология разработки и защиты БД (Карпушин А.И.)\ПР\DB_Hotel\DB_Hotel\obj\Debug\DB_Hotel.Personal.resources
+D:\College\4 курс\Технология разработки и защиты БД (Карпушин А.И.)\ПР\DB_Hotel\DB_Hotel\obj\Debug\DB_Hotel.Registraciya.resources
+D:\College\4 курс\Технология разработки и защиты БД (Карпушин А.И.)\ПР\DB_Hotel\DB_Hotel\obj\Debug\DB_Hotel.Gosti.resources
+D:\College\4 курс\Технология разработки и защиты БД (Карпушин А.И.)\ПР\DB_Hotel\DB_Hotel\obj\Debug\DB_Hotel.Izmenit_gosti.resources
+D:\College\4 курс\Технология разработки и защиты БД (Карпушин А.И.)\ПР\DB_Hotel\DB_Hotel\obj\Debug\DB_Hotel.Izmenit_komnata.resources
+D:\College\4 курс\Технология разработки и защиты БД (Карпушин А.И.)\ПР\DB_Hotel\DB_Hotel\obj\Debug\DB_Hotel.Izmenit_dolzhnost.resources
+D:\College\4 курс\Технология разработки и защиты БД (Карпушин А.И.)\ПР\DB_Hotel\DB_Hotel\obj\Debug\DB_Hotel.Izmenit_personal.resources
+D:\College\4 курс\Технология разработки и защиты БД (Карпушин А.И.)\ПР\DB_Hotel\DB_Hotel\obj\Debug\DB_Hotel.Izmenit_registraciya.resources
+C:\Users\CCCP\OneDrive\Рабочий стол\DB_Hotel\bin\Debug\DB_Hotel.exe.config
+C:\Users\CCCP\OneDrive\Рабочий стол\DB_Hotel\bin\Debug\DB_Hotel.exe
+C:\Users\CCCP\OneDrive\Рабочий стол\DB_Hotel\bin\Debug\DB_Hotel.pdb
+C:\Users\CCCP\OneDrive\Рабочий стол\DB_Hotel\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\CCCP\OneDrive\Рабочий стол\DB_Hotel\bin\Debug\Google.Protobuf.dll
+C:\Users\CCCP\OneDrive\Рабочий стол\DB_Hotel\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\CCCP\OneDrive\Рабочий стол\DB_Hotel\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\CCCP\OneDrive\Рабочий стол\DB_Hotel\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\CCCP\OneDrive\Рабочий стол\DB_Hotel\bin\Debug\MySql.Data.dll
+C:\Users\CCCP\OneDrive\Рабочий стол\DB_Hotel\bin\Debug\System.Buffers.dll
+C:\Users\CCCP\OneDrive\Рабочий стол\DB_Hotel\bin\Debug\System.Memory.dll
+C:\Users\CCCP\OneDrive\Рабочий стол\DB_Hotel\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\CCCP\OneDrive\Рабочий стол\DB_Hotel\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\CCCP\OneDrive\Рабочий стол\DB_Hotel\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\CCCP\OneDrive\Рабочий стол\DB_Hotel\bin\Debug\ZstdNet.dll
+C:\Users\CCCP\OneDrive\Рабочий стол\DB_Hotel\bin\Debug\Google.Protobuf.pdb
+C:\Users\CCCP\OneDrive\Рабочий стол\DB_Hotel\bin\Debug\Google.Protobuf.xml
+C:\Users\CCCP\OneDrive\Рабочий стол\DB_Hotel\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\CCCP\OneDrive\Рабочий стол\DB_Hotel\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\CCCP\OneDrive\Рабочий стол\DB_Hotel\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\CCCP\OneDrive\Рабочий стол\DB_Hotel\bin\Debug\MySql.Data.xml
+C:\Users\CCCP\OneDrive\Рабочий стол\DB_Hotel\bin\Debug\System.Buffers.xml
+C:\Users\CCCP\OneDrive\Рабочий стол\DB_Hotel\bin\Debug\System.Memory.xml
+C:\Users\CCCP\OneDrive\Рабочий стол\DB_Hotel\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\CCCP\OneDrive\Рабочий стол\DB_Hotel\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\CCCP\OneDrive\Рабочий стол\DB_Hotel\obj\Debug\DB_Hotel.csproj.AssemblyReference.cache
+C:\Users\CCCP\OneDrive\Рабочий стол\DB_Hotel\obj\Debug\DB_Hotel.Avtorizaciya.resources
+C:\Users\CCCP\OneDrive\Рабочий стол\DB_Hotel\obj\Debug\DB_Hotel.Dolzhnosti.resources
+C:\Users\CCCP\OneDrive\Рабочий стол\DB_Hotel\obj\Debug\DB_Hotel.Izmenit_dolzhnost.resources
+C:\Users\CCCP\OneDrive\Рабочий стол\DB_Hotel\obj\Debug\DB_Hotel.Izmenit_gosti.resources
+C:\Users\CCCP\OneDrive\Рабочий стол\DB_Hotel\obj\Debug\DB_Hotel.Izmenit_komnata.resources
+C:\Users\CCCP\OneDrive\Рабочий стол\DB_Hotel\obj\Debug\DB_Hotel.Izmenit_personal.resources
+C:\Users\CCCP\OneDrive\Рабочий стол\DB_Hotel\obj\Debug\DB_Hotel.Izmenit_registraciya.resources
+C:\Users\CCCP\OneDrive\Рабочий стол\DB_Hotel\obj\Debug\DB_Hotel.Komnaty.resources
+C:\Users\CCCP\OneDrive\Рабочий стол\DB_Hotel\obj\Debug\DB_Hotel.Menu.resources
+C:\Users\CCCP\OneDrive\Рабочий стол\DB_Hotel\obj\Debug\DB_Hotel.Personal.resources
+C:\Users\CCCP\OneDrive\Рабочий стол\DB_Hotel\obj\Debug\DB_Hotel.Properties.Resources.resources
+C:\Users\CCCP\OneDrive\Рабочий стол\DB_Hotel\obj\Debug\DB_Hotel.Registraciya.resources
+C:\Users\CCCP\OneDrive\Рабочий стол\DB_Hotel\obj\Debug\DB_Hotel.Gosti.resources
+C:\Users\CCCP\OneDrive\Рабочий стол\DB_Hotel\obj\Debug\DB_Hotel.csproj.GenerateResource.cache
+C:\Users\CCCP\OneDrive\Рабочий стол\DB_Hotel\obj\Debug\DB_Hotel.csproj.CoreCompileInputs.cache
+C:\Users\CCCP\OneDrive\Рабочий стол\DB_Hotel\obj\Debug\DB_Hotel.csproj.CopyComplete
+C:\Users\CCCP\OneDrive\Рабочий стол\DB_Hotel\obj\Debug\DB_Hotel.exe
+C:\Users\CCCP\OneDrive\Рабочий стол\DB_Hotel\obj\Debug\DB_Hotel.pdb
+C:\Users\CCCP\OneDrive\Рабочий стол\123\DB_Hotel\obj\Debug\DB_Hotel.csproj.AssemblyReference.cache
+C:\Users\CCCP\OneDrive\Рабочий стол\123\DB_Hotel\obj\Debug\DB_Hotel.Avtorizaciya.resources
+C:\Users\CCCP\OneDrive\Рабочий стол\123\DB_Hotel\obj\Debug\DB_Hotel.Dolzhnosti.resources
+C:\Users\CCCP\OneDrive\Рабочий стол\123\DB_Hotel\obj\Debug\DB_Hotel.Izmenit_dolzhnost.resources
+C:\Users\CCCP\OneDrive\Рабочий стол\123\DB_Hotel\obj\Debug\DB_Hotel.Izmenit_gosti.resources
+C:\Users\CCCP\OneDrive\Рабочий стол\123\DB_Hotel\obj\Debug\DB_Hotel.Izmenit_komnata.resources
+C:\Users\CCCP\OneDrive\Рабочий стол\123\DB_Hotel\obj\Debug\DB_Hotel.Izmenit_personal.resources
+C:\Users\CCCP\OneDrive\Рабочий стол\123\DB_Hotel\obj\Debug\DB_Hotel.Izmenit_registraciya.resources
+C:\Users\CCCP\OneDrive\Рабочий стол\123\DB_Hotel\obj\Debug\DB_Hotel.Komnaty.resources
+C:\Users\CCCP\OneDrive\Рабочий стол\123\DB_Hotel\obj\Debug\DB_Hotel.Menu.resources
+C:\Users\CCCP\OneDrive\Рабочий стол\123\DB_Hotel\obj\Debug\DB_Hotel.Personal.resources
+C:\Users\CCCP\OneDrive\Рабочий стол\123\DB_Hotel\obj\Debug\DB_Hotel.Properties.Resources.resources
+C:\Users\CCCP\OneDrive\Рабочий стол\123\DB_Hotel\obj\Debug\DB_Hotel.Registraciya.resources
+C:\Users\CCCP\OneDrive\Рабочий стол\123\DB_Hotel\obj\Debug\DB_Hotel.Gosti.resources
+C:\Users\CCCP\OneDrive\Рабочий стол\123\DB_Hotel\obj\Debug\DB_Hotel.csproj.GenerateResource.cache
+C:\Users\CCCP\OneDrive\Рабочий стол\123\DB_Hotel\obj\Debug\DB_Hotel.csproj.CoreCompileInputs.cache
+C:\Users\CCCP\OneDrive\Рабочий стол\123\DB_Hotel\obj\Debug\DB_Hotel.exe
+C:\Users\CCCP\OneDrive\Рабочий стол\123\DB_Hotel\obj\Debug\DB_Hotel.pdb
+C:\Users\CCCP\OneDrive\Рабочий стол\123\DB_Hotel\bin\Debug\DB_Hotel.exe.config
+C:\Users\CCCP\OneDrive\Рабочий стол\123\DB_Hotel\bin\Debug\DB_Hotel.exe
+C:\Users\CCCP\OneDrive\Рабочий стол\123\DB_Hotel\bin\Debug\DB_Hotel.pdb
+C:\Users\CCCP\OneDrive\Рабочий стол\123\DB_Hotel\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\CCCP\OneDrive\Рабочий стол\123\DB_Hotel\bin\Debug\Google.Protobuf.dll
+C:\Users\CCCP\OneDrive\Рабочий стол\123\DB_Hotel\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\CCCP\OneDrive\Рабочий стол\123\DB_Hotel\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\CCCP\OneDrive\Рабочий стол\123\DB_Hotel\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\CCCP\OneDrive\Рабочий стол\123\DB_Hotel\bin\Debug\MySql.Data.dll
+C:\Users\CCCP\OneDrive\Рабочий стол\123\DB_Hotel\bin\Debug\System.Buffers.dll
+C:\Users\CCCP\OneDrive\Рабочий стол\123\DB_Hotel\bin\Debug\System.Memory.dll
+C:\Users\CCCP\OneDrive\Рабочий стол\123\DB_Hotel\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\CCCP\OneDrive\Рабочий стол\123\DB_Hotel\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\CCCP\OneDrive\Рабочий стол\123\DB_Hotel\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\CCCP\OneDrive\Рабочий стол\123\DB_Hotel\bin\Debug\ZstdNet.dll
+C:\Users\CCCP\OneDrive\Рабочий стол\123\DB_Hotel\bin\Debug\Google.Protobuf.pdb
+C:\Users\CCCP\OneDrive\Рабочий стол\123\DB_Hotel\bin\Debug\Google.Protobuf.xml
+C:\Users\CCCP\OneDrive\Рабочий стол\123\DB_Hotel\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\CCCP\OneDrive\Рабочий стол\123\DB_Hotel\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\CCCP\OneDrive\Рабочий стол\123\DB_Hotel\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\CCCP\OneDrive\Рабочий стол\123\DB_Hotel\bin\Debug\MySql.Data.xml
+C:\Users\CCCP\OneDrive\Рабочий стол\123\DB_Hotel\bin\Debug\System.Buffers.xml
+C:\Users\CCCP\OneDrive\Рабочий стол\123\DB_Hotel\bin\Debug\System.Memory.xml
+C:\Users\CCCP\OneDrive\Рабочий стол\123\DB_Hotel\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\CCCP\OneDrive\Рабочий стол\123\DB_Hotel\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\CCCP\OneDrive\Рабочий стол\123\DB_Hotel\obj\Debug\DB_Hotel.csproj.CopyComplete
+C:\Users\CCCP\OneDrive\Рабочий стол\123\DB_Hotel\obj\Debug\DB_Hotel.csproj.ResolveComReference.cache
