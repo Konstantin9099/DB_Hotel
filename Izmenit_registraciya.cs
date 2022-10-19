@@ -123,7 +123,7 @@ namespace DB_Hotel
         // Сохранение изменений.
         private void sohranit_btn_Click(object sender, EventArgs e)
         {
-            // Извлечение id гостя через выпадающей списк ФИО в comboBox.
+            // Извлечение id гостя через выпадающий списк ФИО в comboBox.
             string id_gost = fio_gost_cb.Text;
             try
             {
@@ -140,7 +140,7 @@ namespace DB_Hotel
                 MessageBox.Show(ex.Message);
             }
 
-            // Извлечение id сотрудника через выпадающей списк ФИО в comboBox.
+            // Извлечение id сотрудника через выпадающий списк ФИО в comboBox.
             string id_sotr = fio_sotr_cb.Text;
             try
             {
@@ -157,7 +157,7 @@ namespace DB_Hotel
                 MessageBox.Show(ex.Message);
             }
 
-            // Извлечение id комнаты через выпадающей списк номеров в comboBox.
+            // Извлечение id комнаты через выпадающий списк номеров в comboBox.
             string id_komn = nom_komn_cb.Text;
             try
             {
@@ -213,7 +213,6 @@ namespace DB_Hotel
                     }
                     do_Action(query);
                 }
-
             }
         }
     }
